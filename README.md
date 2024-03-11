@@ -12,7 +12,22 @@
 
 ### Setup
 
-- *.env requirements: n/a*
+- .env requirements:
+
+```python
+SECRET_KEY
+DEBUG
+
+ALLOWED_HOSTS
+ALLOW_ALL_ORIGINS
+
+DATABASE_ENGINE
+DATABASE_NAME
+DATABASE_USER
+DATABASE_PASSWORD
+DATABASE_HOST
+DATABASE_PORT
+```
 
 ### How to Initialize/Run Your Application
 
